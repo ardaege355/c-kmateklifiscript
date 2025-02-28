@@ -23,7 +23,7 @@ function cevapVer(evet) {
             <div class="celebration">
                 <h2>🎉 İşte Bu Kadar 🎉</h2>
                 <p class="celebration-text">Artık resmen:<br>
-                <span class="couple-name">Ege ❤️ Melisa</span></p>
+                <span class="couple-name">Ege ❤️ Selim</span></p>
                 <div class="hearts"></div>
                 <p>Hayatının en güzel kararını verdin! 🥰</p>
             </div>
